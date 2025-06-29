@@ -2,6 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Shell](https://img.shields.io/badge/Shell-Bash-blue)
+[![Wiki](https://img.shields.io/badge/Project-Wiki-blueviolet.svg)](https://github.com/marcelositr/tempfile-host/wiki)
 
 Scripts para upload rápido de arquivos para o serviço [0x0.st](https://0x0.st) diretamente da linha de comando (CLI) ou através de uma interface gráfica simples (GUI).
 
