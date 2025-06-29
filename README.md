@@ -114,5 +114,4 @@ Lá você encontrará:
 Distribuído sob a licença MIT.
 
 ---
-Feito com ❤️ por [Marcelo Sitr](https://github.com/marcelositr).
-```
+Created by [@marcelositr](https://github.com/marcelositr)
