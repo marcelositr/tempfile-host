@@ -5,7 +5,7 @@
 
 Scripts para upload rápido de arquivos para o serviço [0x0.st](https://0x0.st) diretamente da linha de comando (CLI) ou através de uma interface gráfica simples (GUI).
 
----
+![Gemini Shell Banner](https://github.com/marcelositr/tempfile-host/blob/main/images/tempfile-host.png?raw=true)
 
 ### Demonstração
 
