@@ -1,8 +1,15 @@
 # TempFile Host Utilities
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Shell](https://img.shields.io/badge/Shell-Bash-blue)
-[![Wiki](https://img.shields.io/badge/Project-Wiki-blueviolet.svg)](https://github.com/marcelositr/tempfile-host/wiki)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Language](https://img.shields.io/badge/language-Shell-blue.svg)
+![Status](https://img.shields.io/badge/status-em%20produção-brightgreen.svg)
+![Build](https://img.shields.io/github/actions/workflow/status/marcelositr/tempfile-host/ci.yml?branch=main)
+![Feito com](https://img.shields.io/badge/feito%20com-%F0%9F%A4%96%20%2B%20%F0%9F%92%BB-critical)
+
+[![Último commit](https://img.shields.io/github/last-commit/marcelositr/tempfile-host)](https://github.com/marcelositr/tempfile-host/commits/main)
+[![Releases](https://img.shields.io/github/v/release/marcelositr/tempfile-host?label=release)](https://github.com/marcelositr/tempfile-host/releases)
+[![Issues](https://img.shields.io/github/issues/marcelositr/tempfile-host)](https://github.com/marcelositr/tempfile-host/issues)
+[![Stars](https://img.shields.io/github/stars/marcelositr/tempfile-host?style=social)](https://github.com/marcelositr/tempfile-host/stargazers)
 
 Scripts para upload rápido de arquivos para o serviço [0x0.st](https://0x0.st) diretamente da linha de comando (CLI) ou através de uma interface gráfica simples (GUI).
 
